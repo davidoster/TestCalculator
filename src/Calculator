@@ -1,0 +1,26 @@
+package mypackage;
+
+/**
+ *
+ * @author Nikos Zavlagas
+ */
+public class Calculator {
+
+private Integer a;
+private Integer b;
+
+
+    
+
+    public void addToIntegers(Integer a, Integer b) {
+
+       
+
+    }
+    
+    public void SubtrackToIntegers(Integer a, Integer b) {
+
+       
+
+    }
+}
