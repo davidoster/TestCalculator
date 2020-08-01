@@ -20,13 +20,7 @@ public class TestCalculator {
         System.out.println("");
         System.out.println("");
         System.out.println("");
-    }
+    } 
 
-	public static int add2Ints(int a, int b) {
-		return a + b;
-	}
-
-	public static int subtr2Ints(int a, int b) {
-		return a - b;
-	}
+	
 }
