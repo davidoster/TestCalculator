@@ -46,11 +46,11 @@ public class CalculatorTest {
         int x = 0;
         int y = 0;
         Calculator instance = new Calculator();
-        int expResult = 0;
+        int expResult = -20;
         int result = instance.addTwoNums(x, y);
         assertEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
+        //fail("The test case is a prototype.");
     }
 
     /**
@@ -66,7 +66,7 @@ public class CalculatorTest {
         int result = instance.subtractTwoNums(x, y);
         assertEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
+        //fail("The test case is a prototype.");
     }
     
 }
