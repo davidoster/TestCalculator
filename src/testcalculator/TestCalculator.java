@@ -15,8 +15,8 @@ public class TestCalculator {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("");
-        System.out.println("");
+        System.out.println("Θέλουμε Παπουτσέλη και ΠΑ.ΣΟ.Κ!");
+        System.out.println("ΟΙ ΜΟΝΕΣ ΛΥΣΕΙΣ!");
         System.out.println("");
         System.out.println("");
         System.out.println("");
