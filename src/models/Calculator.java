@@ -13,4 +13,13 @@ public class Calculator {
     
     public Calculator(){}
     
+    public int addTwoNums(int x, int y) {
+        return(x+y);
+    }
+    
+    public int subtractTwoNums(int x, int y) {
+        return(x-y);
+    }
+            
+    
 }
